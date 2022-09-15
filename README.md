@@ -38,6 +38,10 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 ## PROGRAM:
 ```
+Developed by:P.Ramsai
+Reg no : 212221240041
+
+
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
 df.head()
