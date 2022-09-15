@@ -69,8 +69,9 @@ print(df1)
 ```
 
 ## OUTPUT:
-
 ![Screenshot (119)](https://user-images.githubusercontent.com/94269989/190447585-e8fc1652-7c27-41be-b932-87f99b0b4a9f.png)
+
+
 ![Screenshot (120)](https://user-images.githubusercontent.com/94269989/190447889-9d4b51bb-e4f1-471e-a642-321c41bd541b.png)
 
 
